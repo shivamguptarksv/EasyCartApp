@@ -63,12 +63,6 @@ The project is organized into the following layers:
    ```
 3. Build and run the app on a simulator or device.
 
-## Future Enhancements
-- Implement lazy loading for images.
-- Add dedicated error screens for network issues.
-- Enhance push notification handling.
-- Improve API error handling with detailed states.
-
 ## Authors
 - **Shivam Gupta**
 
